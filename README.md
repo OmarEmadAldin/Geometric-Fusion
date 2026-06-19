@@ -169,8 +169,8 @@ Frame 4: car at 13.5m  ─┘
 ## Result
 
 <p align="center">
-  <img src="output/frame_0000/projection_all.png" width="45%" />
-  <img src="output/frame_0000/projection_boxes.png" width="45%" />
+  <img src="Output_Frame/projection_all.png" width="45%" />
+  <img src="Output_Frame/projection_boxes.png" width="45%" />
 </p>
 
 ---
